@@ -14,7 +14,9 @@ public class Git_2025092 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // git simple test 
+        
+        System.out.println("Badamtsetseg-2025092");
     }
     
 }
